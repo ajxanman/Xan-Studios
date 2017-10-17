@@ -17,7 +17,8 @@ div {
 	text-align: center;
 }
 #main{
-	color: #00cccc
+	height: 95px;
+	margin-bottom: 5px;
 }
 #email{
 	font-size: 10px;
