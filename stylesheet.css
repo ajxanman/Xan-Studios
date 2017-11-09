@@ -1,3 +1,4 @@
+
 div {
 	border-radius: 10px;
 }
@@ -19,6 +20,8 @@ div {
 #main{
 	height: 95px;
 	margin-bottom: 5px;
+	border-radius: 5px;
+	margin-top: 5px;
 }
 #email{
 	font-size: 10px;
