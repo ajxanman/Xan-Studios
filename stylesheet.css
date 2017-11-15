@@ -66,3 +66,8 @@ a:hover {
 	position: relative;
 	padding-top: 15px;
 }
+#youtube{
+	float: right;
+	height:45px;
+	margin-top: 45px;
+}
